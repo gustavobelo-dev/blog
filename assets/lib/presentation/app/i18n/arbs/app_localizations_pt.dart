@@ -54,6 +54,13 @@ class AppLocalizationsPt extends AppLocalizations {
   String get blogAbout => 'Sobre mim';
 
   @override
+  String get aboutMeScreenDescription =>
+      'Tenho uma dificuldade medonha em distinguir o que EU SOU e o que EU ESTOU. \n\nEu sou de Fortaleza mas eu estou em Curitiba.\n\nEu sou um faz-tudo mas estou como Dev.\n\nEu sou averso a redes sociais mas eu estou no [Instagram](https://www.instagram.com/ogustavobelo/).\n\nEu sou um apaixonado pela escrita e eu estou escrevendo este [blog](/blog).\n\n';
+
+  @override
+  String get aboutMeScreenPosts => 'Postagens';
+
+  @override
   String get postScreenCreateError => 'Não foi possível salvar a postagem!';
 
   @override

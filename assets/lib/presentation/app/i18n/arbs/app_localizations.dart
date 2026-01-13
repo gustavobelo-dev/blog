@@ -160,6 +160,18 @@ abstract class AppLocalizations {
   /// **'Sobre mim'**
   String get blogAbout;
 
+  /// No description provided for @aboutMeScreenDescription.
+  ///
+  /// In pt, this message translates to:
+  /// **'Tenho uma dificuldade medonha em distinguir o que EU SOU e o que EU ESTOU. \n\nEu sou de Fortaleza mas eu estou em Curitiba.\n\nEu sou um faz-tudo mas estou como Dev.\n\nEu sou averso a redes sociais mas eu estou no [Instagram](https://www.instagram.com/ogustavobelo/).\n\nEu sou um apaixonado pela escrita e eu estou escrevendo este [blog](/blog).\n\n'**
+  String get aboutMeScreenDescription;
+
+  /// No description provided for @aboutMeScreenPosts.
+  ///
+  /// In pt, this message translates to:
+  /// **'Postagens'**
+  String get aboutMeScreenPosts;
+
   /// No description provided for @postScreenCreateError.
   ///
   /// In pt, this message translates to:
