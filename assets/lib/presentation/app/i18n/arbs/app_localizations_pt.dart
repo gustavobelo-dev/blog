@@ -58,7 +58,7 @@ class AppLocalizationsPt extends AppLocalizations {
       'Tenho uma dificuldade medonha em distinguir o que EU SOU e o que EU ESTOU. \n\nEu sou de Fortaleza mas eu estou em Curitiba.\n\nEu sou um faz-tudo mas estou como Dev.\n\nEu sou averso a redes sociais mas eu estou no [Instagram](https://www.instagram.com/ogustavobelo/).\n\nEu sou um apaixonado pela escrita e eu estou escrevendo este [blog](/blog).\n\n';
 
   @override
-  String get aboutMeScreenPosts => 'Postagens';
+  String get aboutMeScreenPosts => 'Notas';
 
   @override
   String get postScreenCreateError => 'Não foi possível salvar a postagem!';
@@ -77,6 +77,9 @@ class AppLocalizationsPt extends AppLocalizations {
   String get postScreenInputTitleHint => 'Título da postagem';
 
   @override
+  String get postScreenGetError => 'Não foi possível carregar a postagem!';
+
+  @override
   String get postScreenTitle => 'Nova postagem';
 
   @override
@@ -86,4 +89,12 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get validatorsRequired => 'Este campo é obrigatório';
+
+  @override
+  String homeScreenFilterLabel(Object filter) {
+    return 'Filtrando por: $filter';
+  }
+
+  @override
+  String get homeScreenClearFilter => 'Limpar filtro';
 }

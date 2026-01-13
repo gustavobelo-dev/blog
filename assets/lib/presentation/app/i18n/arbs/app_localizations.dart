@@ -169,7 +169,7 @@ abstract class AppLocalizations {
   /// No description provided for @aboutMeScreenPosts.
   ///
   /// In pt, this message translates to:
-  /// **'Postagens'**
+  /// **'Notas'**
   String get aboutMeScreenPosts;
 
   /// No description provided for @postScreenCreateError.
@@ -202,6 +202,12 @@ abstract class AppLocalizations {
   /// **'Título da postagem'**
   String get postScreenInputTitleHint;
 
+  /// No description provided for @postScreenGetError.
+  ///
+  /// In pt, this message translates to:
+  /// **'Não foi possível carregar a postagem!'**
+  String get postScreenGetError;
+
   /// No description provided for @postScreenTitle.
   ///
   /// In pt, this message translates to:
@@ -219,6 +225,18 @@ abstract class AppLocalizations {
   /// In pt, this message translates to:
   /// **'Este campo é obrigatório'**
   String get validatorsRequired;
+
+  /// No description provided for @homeScreenFilterLabel.
+  ///
+  /// In pt, this message translates to:
+  /// **'Filtrando por: {filter}'**
+  String homeScreenFilterLabel(Object filter);
+
+  /// No description provided for @homeScreenClearFilter.
+  ///
+  /// In pt, this message translates to:
+  /// **'Limpar filtro'**
+  String get homeScreenClearFilter;
 }
 
 class _AppLocalizationsDelegate

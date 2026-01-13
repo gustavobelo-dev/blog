@@ -12,13 +12,16 @@
   "blogTitle": "Blog",
   "blogAbout": "Sobre mim",
   "aboutMeScreenDescription": "Tenho uma dificuldade medonha em distinguir o que EU SOU e o que EU ESTOU. \n\nEu sou de Fortaleza mas eu estou em Curitiba.\n\nEu sou um faz-tudo mas estou como Dev.\n\nEu sou averso a redes sociais mas eu estou no [Instagram](https://www.instagram.com/ogustavobelo/).\n\nEu sou um apaixonado pela escrita e eu estou escrevendo este [blog](/blog).\n\n",
-  "aboutMeScreenPosts": "Postagens",
+  "aboutMeScreenPosts": "Notas",
   "postScreenCreateError": "Não foi possível salvar a postagem!",
   "postScreenCreateSuccess": "Postagem salva com sucesso!",
   "postScreenEmptyContentHint": "Clique aqui para preencher conteúdo...",
   "postScreenInputContentHint": "Conteúdo da postagem...",
   "postScreenInputTitleHint": "Título da postagem",
+  "postScreenGetError": "Não foi possível carregar a postagem!",
   "postScreenTitle": "Nova postagem",
   "validatorsMinLength": "Você deve informar pelo menos {min} dígitos",
-  "validatorsRequired": "Este campo é obrigatório"
+  "validatorsRequired": "Este campo é obrigatório",
+  "homeScreenFilterLabel": "Filtrando por: {filter}",
+  "homeScreenClearFilter": "Limpar filtro"
 }
