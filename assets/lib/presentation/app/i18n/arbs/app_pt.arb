@@ -1,0 +1,22 @@
+{
+  "@@locale": "pt",
+  "commonHumanizedDateHourAgo": "hora atrás",
+  "commonHumanizedDateHoursAgo": "horas atrás",
+  "commonHumanizedDateMinutesAgo": "minutos atrás",
+  "commonHumanizedDateSecondsAgo": "segundos atrás",
+  "commonHumanizedDateYesterday": "Ontem",
+  "commonHumanizedDateWeekday": "{weekday, select, 1 {Segunda-feira} 2 {Terça-feira} 3 {Quarta-feira} 4 {Quinta-feira} 5 {Sexta-feira} 6 {Sábado} 7 {Domingo} other {}}",
+  "commonSave": "Salvar",
+  "homeScreenNewPostButton": "Novo",
+  "blogName": "Notas de uma mente inquieta",
+  "blogTitle": "Blog",
+  "blogAbout": "Sobre mim",
+  "postScreenCreateError": "Não foi possível salvar a postagem!",
+  "postScreenCreateSuccess": "Postagem salva com sucesso!",
+  "postScreenEmptyContentHint": "Clique aqui para preencher conteúdo...",
+  "postScreenInputContentHint": "Conteúdo da postagem...",
+  "postScreenInputTitleHint": "Título da postagem",
+  "postScreenTitle": "Nova postagem",
+  "validatorsMinLength": "Você deve informar pelo menos {min} dígitos",
+  "validatorsRequired": "Este campo é obrigatório"
+}
